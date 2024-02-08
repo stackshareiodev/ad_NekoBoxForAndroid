@@ -3,26 +3,26 @@
 ## Tech Stack
 stackshareiodev/ad_NekoBoxForAndroid is built on the following main stack:
 
-- [Gradle](https://www.gradle.org/) – Java Build Tools
-- [Java](https://www.java.com) – Languages
 - [Golang](http://golang.org/) – Languages
-- [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
+- [Java](https://www.java.com) – Languages
 - [Kotlin](https://kotlinlang.org/) – Languages
-- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
-- [Android OS](https://www.android.com) – Operating Systems
+- [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
+- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- [Hyperledger Iroha](https://www.hyperledger.org/use/iroha) – Blockchain
+- [Jitsu](https://jitsu.com/) – Big Data as a Service
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Appzi](https://www.appzi.com/) – Feedback Widget
+- [Gradle](https://www.gradle.org/) – Java Build Tools
+- [K0s](https://k0sproject.io/) – Container Tools
+- [OpenYurt](https://openyurt.io/en-us/) – Container Tools
 - [ZyXel](https://www.zyxel.com/us/en/) – Networking Hardware
 - [Mojito](https://mojito.mx/) – A/B Testing Analytics
-- [FinCRM](http://www.fincrm.net) – CRM
-- [OpenYurt](https://openyurt.io/en-us/) – Container Tools
-- [PinnacleCart](https://www.pinnaclecart.com/) – Ecommerce
+- [Android OS](https://www.android.com) – Operating Systems
+- [Appzi](https://www.appzi.com/) – Feedback Widget
 - [EmailOctopus](https://emailoctopus.com/) – Email Marketing
-- [Hyperledger Iroha](https://www.hyperledger.org/use/iroha) – Blockchain
+- [FinCRM](http://www.fincrm.net) – CRM
+- [PinnacleCart](https://www.pinnaclecart.com/) – Ecommerce
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/about) – Operating Systems
-- [Jitsu](https://jitsu.com/) – Big Data as a Service
-- [K0s](https://k0sproject.io/) – Container Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -32,26 +32,26 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 stackshareiodev/ad_NekoBoxForAndroid is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png' alt='Android SDK'/> [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg' alt='Android OS'/> [Android OS](https://www.android.com) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png' alt='Android SDK'/> [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/21229/default_b72c28c2a9d62b1764a3358fec9ba9dd4d57a528.png' alt='Hyperledger Iroha'/> [Hyperledger Iroha](https://www.hyperledger.org/use/iroha) – Blockchain
+- <img width='25' height='25' src='https://img.stackshare.io/service/21529/default_7413c21e0ebfd8eea466763569e8f7defd17e93a.jpg' alt='Jitsu'/> [Jitsu](https://jitsu.com/) – Big Data as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg' alt='Appzi'/> [Appzi](https://www.appzi.com/) – Feedback Widget
+- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/21566/default_20771eeb7ed8667b6346f02e9225860e4fe4ac99.png' alt='K0s'/> [K0s](https://k0sproject.io/) – Container Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png' alt='OpenYurt'/> [OpenYurt](https://openyurt.io/en-us/) – Container Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/21126/default_82855a9a63ac94e02248a391b260a94acbafb41a.png' alt='ZyXel'/> [ZyXel](https://www.zyxel.com/us/en/) – Networking Hardware
 - <img width='25' height='25' src='https://img.stackshare.io/service/21128/default_365d9038c30c48f50098c35273682af3bc86e218.png' alt='Mojito'/> [Mojito](https://mojito.mx/) – A/B Testing Analytics
-- <img width='25' height='25' src='https://img.stackshare.io/service/21129/default_a6389ef2c20db890998e2b9b194d515eb3e79443.jpg' alt='FinCRM'/> [FinCRM](http://www.fincrm.net) – CRM
-- <img width='25' height='25' src='https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png' alt='OpenYurt'/> [OpenYurt](https://openyurt.io/en-us/) – Container Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/21204/default_9265293a8f3a09dee4758cdda7d0f384cd2b3522.png' alt='PinnacleCart'/> [PinnacleCart](https://www.pinnaclecart.com/) – Ecommerce
+- <img width='25' height='25' src='https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg' alt='Android OS'/> [Android OS](https://www.android.com) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg' alt='Appzi'/> [Appzi](https://www.appzi.com/) – Feedback Widget
 - <img width='25' height='25' src='https://img.stackshare.io/service/21207/default_4e5599aba925e3b3a2109b439679659542786fed.jpg' alt='EmailOctopus'/> [EmailOctopus](https://emailoctopus.com/) – Email Marketing
-- <img width='25' height='25' src='https://img.stackshare.io/service/21229/default_b72c28c2a9d62b1764a3358fec9ba9dd4d57a528.png' alt='Hyperledger Iroha'/> [Hyperledger Iroha](https://www.hyperledger.org/use/iroha) – Blockchain
+- <img width='25' height='25' src='https://img.stackshare.io/service/21129/default_a6389ef2c20db890998e2b9b194d515eb3e79443.jpg' alt='FinCRM'/> [FinCRM](http://www.fincrm.net) – CRM
+- <img width='25' height='25' src='https://img.stackshare.io/service/21204/default_9265293a8f3a09dee4758cdda7d0f384cd2b3522.png' alt='PinnacleCart'/> [PinnacleCart](https://www.pinnaclecart.com/) – Ecommerce
 - <img width='25' height='25' src='https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png' alt='WSL'/> [WSL](https://docs.microsoft.com/en-us/windows/wsl/about) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/21529/default_7413c21e0ebfd8eea466763569e8f7defd17e93a.jpg' alt='Jitsu'/> [Jitsu](https://jitsu.com/) – Big Data as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/21566/default_20771eeb7ed8667b6346f02e9225860e4fe4ac99.png' alt='K0s'/> [K0s](https://k0sproject.io/) – Container Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -62,7 +62,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareiodev/ad_NekoBoxForAndroid](https://github.com/stackshareiodev/ad_NekoBoxForAndroid)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|32<br/>Tools used|02/07/24 <br/>Report generated|
+|32<br/>Tools used|02/08/24 <br/>Report generated|
 |------|------|
 </div>
 
