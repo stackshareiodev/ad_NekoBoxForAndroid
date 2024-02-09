@@ -1,12 +1,12 @@
 repo_name: stackshareiodev/ad_NekoBoxForAndroid
-report_id: 8aff2c1d937f71f0b4eea7ea5c95bf05
+report_id: 1a4ded587338e6029cdd76dc4e14d3e5
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-08T17:22:16+00:00'
+timestamp: '2024-02-09T12:33:55+00:00'
 requested_by: xchacha20-poly1305
 provider: github
 branch: main
-detected_tools_count: 32
+detected_tools_count: 10
 tools:
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -66,47 +66,6 @@ tools:
   detection_source: app/build.gradle.kts
   last_updated_by: arm64v8a
   last_updated_on: 2023-04-08 03:36:32.000000000 Z
-- name: Protobuf
-  description: Google's data interchange format
-  website_url: https://developers.google.com/protocol-buffers/
-  open_source: true
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Serialization Frameworks
-  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.mod
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 04:57:45.000000000 Z
-- name: Hyperledger Iroha
-  description: A simple blockchain platform you can use to make trusted, secure, and
-    fast applications
-  website_url: https://www.hyperledger.org/use/iroha
-  version: 1.1.2
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Data Stores
-  sub_category: Blockchain
-  image_url: https://img.stackshare.io/service/21229/default_b72c28c2a9d62b1764a3358fec9ba9dd4d57a528.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 05:00:14.000000000 Z
-- name: Jitsu
-  description: Open-source event collection and data integration
-  website_url: https://jitsu.com/
-  version: 0.1.1
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Data Stores
-  sub_category: Big Data as a Service
-  image_url: https://img.stackshare.io/service/21529/default_7413c21e0ebfd8eea466763569e8f7defd17e93a.jpg
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 05:00:14.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -142,60 +101,6 @@ tools:
   detection_source: gradlew
   last_updated_by: arm64v8a
   last_updated_on: 2023-03-15 00:00:00.000000000 Z
-- name: K0s
-  description: Zero Friction Kubernetes
-  website_url: https://k0sproject.io/
-  version: 0.0.0
-  open_source: true
-  hosted_saas: false
-  category: Build, Test, Deploy
-  sub_category: Container Tools
-  image_url: https://img.stackshare.io/service/21566/default_20771eeb7ed8667b6346f02e9225860e4fe4ac99.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 04:57:45.000000000 Z
-- name: OpenYurt
-  description: Extending your native Kubernetes to edge (by Alibaba)
-  website_url: https://openyurt.io/en-us/
-  version: 1.0.5
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Build, Test, Deploy
-  sub_category: Container Tools
-  image_url: https://img.stackshare.io/service/21147/default_f869ec037993bd2c3967e7b605ca929be6bbf362.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 05:00:14.000000000 Z
-- name: ZyXel
-  description: Your Networking Ally
-  website_url: https://www.zyxel.com/us/en/
-  version: 0.3.3
-  open_source: false
-  hosted_saas: false
-  category: Monitoring
-  sub_category: Networking Hardware
-  image_url: https://img.stackshare.io/service/21126/default_82855a9a63ac94e02248a391b260a94acbafb41a.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 04:57:45.000000000 Z
-- name: Mojito
-  description: A professional, open source split testing framework
-  website_url: https://mojito.mx/
-  version: 1.60.1
-  license: BSD-3-Clause
-  open_source: true
-  hosted_saas: false
-  category: Analytics
-  sub_category: A/B Testing Analytics
-  image_url: https://img.stackshare.io/service/21128/default_365d9038c30c48f50098c35273682af3bc86e218.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 04:57:45.000000000 Z
 - name: Android OS
   description: An open source mobile operating system by Google
   website_url: https://www.android.com
@@ -208,103 +113,6 @@ tools:
   detection_source: app/build.gradle.kts
   last_updated_by: arm64v8a
   last_updated_on: 2023-04-08 03:36:32.000000000 Z
-- name: Appzi
-  description: A web based user feedback platform that enables SaaS companies to collect
-    product feedback, right from within their website or app
-  website_url: https://www.appzi.com/
-  version: 0.0.0
-  open_source: false
-  hosted_saas: false
-  category: Support, Sales, and Marketing
-  sub_category: Feedback Widget
-  image_url: https://img.stackshare.io/service/21120/default_ff503018433e4c15bd8f88f38f956808d71ae76e.jpg
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 04:57:45.000000000 Z
-- name: Dutypare
-  description: Comparing duty free products from worldwide shops.
-  website_url: https://dutypare.com
-  version: 0.0.0
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/21119/default_7d7cdfe126e00b141809117af1af8ba177913dc4.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 04:57:45.000000000 Z
-- name: EmailOctopus
-  description: Email marketing for less
-  website_url: https://emailoctopus.com/
-  version: 1.26.0
-  open_source: false
-  hosted_saas: false
-  category: Support, Sales, and Marketing
-  sub_category: Email Marketing
-  image_url: https://img.stackshare.io/service/21207/default_4e5599aba925e3b3a2109b439679659542786fed.jpg
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 04:57:45.000000000 Z
-- name: FinCRM
-  description: CRM for Small Businesses
-  website_url: http://www.fincrm.net
-  version: 1.8.0
-  open_source: false
-  hosted_saas: false
-  category: Support, Sales, and Marketing
-  sub_category: CRM
-  image_url: https://img.stackshare.io/service/21129/default_a6389ef2c20db890998e2b9b194d515eb3e79443.jpg
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 05:00:14.000000000 Z
-- name: PinnacleCart
-  description: 'The all-in-one webstore solution '
-  website_url: https://www.pinnaclecart.com/
-  version: 1.0.1
-  open_source: false
-  hosted_saas: false
-  category: Application Utilities
-  sub_category: Ecommerce
-  image_url: https://img.stackshare.io/service/21204/default_9265293a8f3a09dee4758cdda7d0f384cd2b3522.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 05:00:14.000000000 Z
-- name: Quickwork Journey Builder
-  website_url: https://automation.quickwork.co/#/
-  version: 0.0.0
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/21121/default_682895d4f0a2777cec582ef7c7f20fd167c1ce11.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 04:57:45.000000000 Z
-- name: WSL
-  description: Run a GNU/Linux environment directly on Windows
-  website_url: https://docs.microsoft.com/en-us/windows/wsl/about
-  version: 1.17.4
-  open_source: false
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Operating Systems
-  image_url: https://img.stackshare.io/service/21407/default_50834d775ade6b5f1b26a16b626ef3058b6ccf58.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 05:00:14.000000000 Z
-- name: factory_boy
-  website_url: https://factoryboy.readthedocs.io/
-  version: 1.1.57
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/21241/default_5624bd1f47ae3c66a38d6e7016f1d53c63fe21fd.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 05:00:14.000000000 Z
 - name: 'go '
   description: Go will make you love programming again. I promise.
   website_url: https://golang.org/
@@ -315,102 +123,3 @@ tools:
   detection_source: libcore/assets.go
   last_updated_by: arm64v8a
   last_updated_on: 2023-03-15 00:00:00.000000000 Z
-- name: check.v1
-  description: Package check is a rich testing extension for Go's testing package
-  package_url: https://pkg.go.dev/gopkg.in/check.v1
-  version: 1.3.0
-  open_source: false
-  hosted_saas: false
-  category: Libraries
-  sub_category: Go Modules Packages
-  image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 05:00:14.000000000 Z
-- name: fsnotify
-  description: Cross-platform file system notifications for Go
-  package_url: https://pkg.go.dev/github.com/fsnotify/fsnotify
-  version: 1.7.0
-  license: BSD-3-Clause
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Go Modules Packages
-  image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 05:00:14.000000000 Z
-- name: govcloudair
-  description: VCloud Air API bindings for Golang
-  package_url: https://pkg.go.dev/github.com/vmware/govcloudair
-  version: 0.0.0
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Go Modules Packages
-  image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 04:57:45.000000000 Z
-- name: json-patch
-  description: A Go library to apply RFC6902 patches and create and apply RFC7386
-    patches
-  package_url: https://pkg.go.dev/github.com/evanphx/json-patch
-  version: 0.5.11
-  license: BSD-3-Clause
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Go Modules Packages
-  image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 05:00:14.000000000 Z
-- name: podsecuritypolicy
-  description: Production-Grade Container Scheduling and Management
-  package_url: https://pkg.go.dev/k8s.io/kubernetes/pkg/security/podsecuritypolicy
-  version: 1.12.0
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Go Modules Packages
-  image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 05:00:14.000000000 Z
-- name: raftpb
-  description: Distributed reliable key-value store for the most critical data of
-    a distributed system
-  package_url: https://pkg.go.dev/github.com/coreos/etcd/raft/raftpb
-  version: 1.5.1
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Go Modules Packages
-  image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 05:00:14.000000000 Z
-- name: yaml
-  description: A better way to marshal and unmarshal YAML in Golang
-  package_url: https://pkg.go.dev/github.com/ghodss/yaml
-  version: 0.0.0
-  license: Other
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Go Modules Packages
-  image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source_url: https://github.com/stackshareiodev/ad_NekoBoxForAndroid/blob/main/libcore/go.sum
-  detection_source: libcore/go.mod
-  last_updated_by: purofle
-  last_updated_on: 2024-01-14 05:00:14.000000000 Z
